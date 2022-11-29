@@ -25,11 +25,12 @@ else:
     print(str(x) + " x now is not less than ten" + str(x))
 
 # break, continue, pass
+# Pass
 my_list = [1, 2, 3, 4, 5]
 for item in my_list:
     pass
 print('Another code')
-
+# Break
 for item in my_list:
     if item == 2:
         break  # выход из цикла
