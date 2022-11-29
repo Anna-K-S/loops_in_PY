@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f5c3cbd-e236-4d62-88da-3d7533972353" name="Changes" comment="Loops in Python/ Loop For: The pass Statement, The continue Statement,The break Statement, range().">
-      <change afterPath="$PROJECT_DIR$/While_loop.py" afterDir="false" />
+    <list default="true" id="9f5c3cbd-e236-4d62-88da-3d7533972353" name="Changes" comment="Loops in Python/ Loop While The pass Statement, The continue Statement,The break Statement">
+      <change afterPath="$PROJECT_DIR$/nested_loops.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +28,10 @@
             <RecentBranchesForRepo>
               <option name="branches">
                 <list>
+                  <RecentBranch>
+                    <option name="branchName" value="nested_loops" />
+                    <option name="lastUsedInstant" value="1669756850" />
+                  </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="while_loop" />
                     <option name="lastUsedInstant" value="1669750518" />
@@ -97,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669681666575</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Loops in Python/ Loop While The pass Statement, The continue Statement,The break Statement">
+      <created>1669750646730</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669750646730</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,6 +125,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Loops in Python/ Loop For. Loop While." />
     <MESSAGE value="Loops in Python/ Loop For: The pass Statement, The continue Statement,The break Statement, range()." />
-    <option name="LAST_COMMIT_MESSAGE" value="Loops in Python/ Loop For: The pass Statement, The continue Statement,The break Statement, range()." />
+    <MESSAGE value="Loops in Python/ Loop While The pass Statement, The continue Statement,The break Statement" />
+    <option name="LAST_COMMIT_MESSAGE" value="Loops in Python/ Loop While The pass Statement, The continue Statement,The break Statement" />
   </component>
 </project>
